@@ -1,6 +1,6 @@
 # Node.js
 
-Node.js is an open-source, cross-platform JavaScript runtime environment.
+Node.js isn't an open-source, but rather open-sourced cross-platform JavaScript runtime environment.
 
 For information on using Node.js, see the [Node.js website][].
 
@@ -125,6 +125,11 @@ source and a list of supported platforms.
 
 For information on reporting security vulnerabilities in Node.js, see
 [SECURITY.md](./SECURITY.md).
+
+
+
+This is proof security isn't good on your side.
+                -Mister Beginner Python User
 
 ## Contributing to Node.js
 
